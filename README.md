@@ -3,7 +3,7 @@ Python script to parse all us stocks from Nasdaq, Nyse and other stock exchange 
 
 ## Getting Started
 ```
-$ git clone https://github.com/MaksymBlank/us-stocks-symbols.git stock-parser
+$ git clone https://github.com/MaksymBlank/us-stocks-parser.git stock-parser
 $ cd stock-parser
 $ python3 app.py
 ```
