@@ -1,4 +1,4 @@
-# US Stock parser
+# US Stock Parser
 Python script to parse all us stocks from Nasdaq, Nyse and other stock exchange services.
 
 ## Getting Started
